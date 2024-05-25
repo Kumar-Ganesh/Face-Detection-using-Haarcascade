@@ -5,9 +5,6 @@ This repository contains a Face Detection project implemented using Haarcascade,
 
 ## Features
 - Real-time Face Detection: Detects faces in real-time from webcam feed.
-- Image Face Detection: Detects faces in static images.
-- Video Face Detection: Detects faces in pre-recorded video files.
-- Easy Integration: Simple and modular code structure for easy integration into other projects.
 - Customizable: Adjust detection parameters for different environments and requirements.
 
 ## Haarcascade Files
